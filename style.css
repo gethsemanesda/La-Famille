@@ -29,6 +29,10 @@ body {
 	color: #94f7b9;*/
 }
 
+p {
+	text-align: center;
+}
+
 .bubbles {
 	position: relative;
 	display: flex;
