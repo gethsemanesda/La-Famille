@@ -29,10 +29,11 @@ body {
 	color: #94f7b9;*/
 }
 
-div {
-	text-align: center;
-	color: #94f7b9;
-	margin: 0 auto;
+p {
+	min-height: 100vh;
+	background: #0c192c;
+	font-family: sans-serif;
+	font-size: 50px;
 }
 
 .bubbles {
